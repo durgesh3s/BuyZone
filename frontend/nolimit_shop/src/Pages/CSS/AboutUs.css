@@ -1,0 +1,142 @@
+.aboutus{
+    display: grid;
+}
+.aboutus h1{
+    font-size: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
+.aboutus hr{
+    width: 30%;
+    border: 0;
+    border-radius: 10px;
+    height: 2px;
+    background: #141313;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.aboutus img{
+    height: 350px;
+    width: auto;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.aboutus p{
+    margin-top: 40px;
+    margin-left: 170px;
+    margin-right: 170px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    gap: 100px;
+    margin-top: 180px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.container-1 {
+    background-color: #e8e8ec;
+    height: 400px;
+    width: 35%;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.container-1 p{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.container-1 h1{
+    font-size: 26px;
+    margin-top: 10px;
+}
+.container-1 img{
+    width: auto;
+    height: 110px;
+    margin-top: -60px;
+    margin-left: 80px;
+}
+.container-2 {
+    background-color: #38383a;
+    height: 400px;
+    width: 35%;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 90px;
+}
+.container-2 p{
+    margin-left: 0px;
+    margin-right: 0px;
+    color: white;
+}
+.container-2 h1{
+    font-size: 26px;
+    margin-top: 10px;
+    color: white;
+}
+.container-2 img{
+    width: auto;
+    height: 110px;
+    margin-top: -60px;
+    margin-left: 80px;
+}
+.container-3 {
+    background-color: #e8e8ec;
+    height: 400px;
+    width: 35%;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.container-3 p{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.container-3 h1{
+    font-size: 26px;
+    margin-top: 10px;
+}
+.container-3 img{
+    width: auto;
+    height: 110px;
+    margin-top: -60px;
+    margin-left: 80px;
+}
+.achivements h1{
+    font-size: 30px;
+    margin-top: 90px;
+}
+.achivements p{
+    margin-top: 40px;
+    margin-left: 170px;
+    margin-right: 170px;
+    text-align: center;
+}
+.awards {
+    display: flex;
+    gap: 30px;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding-bottom: 100px;
+    justify-content: center;
+}
+
+.award-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 200px;
+    box-shadow: 10px 4px 10px rgba(0, 0, 0, 0.658);
+    border: 1px solid #141313;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.award-1 img {
+    max-width: 150px;
+    max-height: auto;
+    object-fit: contain;
+}

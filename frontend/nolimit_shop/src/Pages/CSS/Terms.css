@@ -1,0 +1,30 @@
+.terms{
+    display: grid;
+}
+.terms h1{
+    font-size: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
+.terms hr{
+    width: 30%;
+    border: 0;
+    border-radius: 10px;
+    height: 2px;
+    background: #141313;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.headings h2{
+    font-size: 22px;
+    margin-top: 15px;
+    margin-left: 150px;
+}
+.headings p{
+    margin-left: 150px;
+    font-size: 16px;
+    margin-right: 200px;
+    margin-top: 20px;
+    
+}

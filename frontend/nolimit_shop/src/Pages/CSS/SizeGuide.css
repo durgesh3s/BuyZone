@@ -1,0 +1,28 @@
+.size{
+    display: grid;
+}
+.size h1{
+    font-size: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
+.size hr{
+    width: 30%;
+    border: 0;
+    border-radius: 10px;
+    height: 2px;
+    background: #141313;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.size h2{
+    font-size: 22px;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.size img{
+    height: 500px;
+    width: auto;
+    margin: 0 auto;
+}
